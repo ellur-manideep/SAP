@@ -1,0 +1,6 @@
+﻿<Properties>
+  <WatchEntry0 value="arrSheetRows.count" />
+  <WatchEntry1 value="ubount(arrWorksheets)" />
+  <WatchEntry2 value="ubound(arrWorksheets)" />
+  <WatchEntry3 value="exeRows" />
+</Properties>
