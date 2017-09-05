@@ -30,7 +30,7 @@ qtApp.Visible = True
 
 ' Set QuickTest run options
 
-'qtApp.Options.Run.RunMode = "Fast"
+'qtApp.Options.Run.RunMode = "Normal"
 
 qtApp.Options.Run.ViewResults = True
 
